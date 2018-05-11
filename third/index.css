@@ -1,0 +1,39 @@
+nav {
+    background-color: #D8D8D8;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.blue-box {
+    background-color: #5B91DB;
+    height: 80px;
+    width: 80px;
+    margin: 20px;
+}
+p {
+    text-align: center;
+    margin: 50px;
+}
+
+.blue {
+    background-color: #5B91DB;
+    height: 100px;
+}
+
+.teal {
+    background-color: #7FDFC4;
+    height: 100px;
+}
+
+.green {
+    background-color: #C3E692;
+    height: 100px;
+}
+
+.yellow {
+    background-color: #F6E654;
+    height: 100px;
+}
